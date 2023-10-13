@@ -6,3 +6,8 @@ for i in range(n):
         st = st + ' '
 
     print(st + '#')
+
+
+# n = 7
+# for i in range(n):
+#   print(' ' * i + '#')
